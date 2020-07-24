@@ -1,5 +1,3 @@
 Esto es un ejemplo de biografia
-Segundo parrafo del archivo
 
-Seguimos en esta historia
-De nuevo seguimos probando
+Nuevos ajustes hechos desde el commit inicial
